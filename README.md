@@ -3,6 +3,6 @@ Additional Materials for Tides and Times Project for Ellie Mateer and Alex Hunte
 
 Contents:
 Least Squares Explanation,
-2.
+Fourier Transform Spectrums
 3.
 4.
